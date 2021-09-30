@@ -1,7 +1,7 @@
-package simulacroParcial1.ejercicio3;
+package parciales.simulacroParcial1.ejercicio3;
 
-import simulacroParcial1.ejercicio2.Autor;
-import simulacroParcial1.ejercicio2.Libro;
+import parciales.simulacroParcial1.ejercicio2.Autor;
+import parciales.simulacroParcial1.ejercicio2.Libro;
 
 public class Main {
 

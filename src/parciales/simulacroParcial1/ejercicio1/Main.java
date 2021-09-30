@@ -1,4 +1,4 @@
-package simulacroParcial1.ejercicio1;
+package parciales.simulacroParcial1.ejercicio1;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 package clase7;
 
-public class Matrices2 {
+public class Matrices {
 
 
     public static void main(String[] args) {
@@ -29,7 +29,7 @@ public class Matrices2 {
         return res;
     }
 
-    public static double[][] simetry(double[][] matriz){
+    public static double[][] symmetry(double[][] matriz){
         int n = matriz.length;
         int m = matriz[0].length;
         double[][] res = new double[m][n];

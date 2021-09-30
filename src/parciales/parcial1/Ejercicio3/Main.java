@@ -1,4 +1,4 @@
-package parciales.parcial11.Ejercicio3;
+package parciales.parcial1.Ejercicio3;
 
 public class Main {
 

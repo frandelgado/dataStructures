@@ -1,4 +1,4 @@
-package simulacroParcial1.ejercicio2;
+package parciales.simulacroParcial1.ejercicio2;
 
 public class Libro {
 

@@ -1,7 +1,7 @@
-package parciales.parcial11;
+package parciales.parcial1;
 
-import parciales.parcial11.Ejercicio1.Animal;
-import parciales.parcial11.Ejercicio1.Zoo;
+import parciales.parcial1.Ejercicio1.Animal;
+import parciales.parcial1.Ejercicio1.Zoo;
 
 import java.util.Scanner;
 

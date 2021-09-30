@@ -1,4 +1,4 @@
-package clase7;
+package prep.clase7;
 
 public class Recursion {
 

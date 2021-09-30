@@ -1,4 +1,4 @@
-package parciales.parcial11.Ejercicio1;
+package parciales.parcial1.Ejercicio1;
 
 public class Zoo {
 
