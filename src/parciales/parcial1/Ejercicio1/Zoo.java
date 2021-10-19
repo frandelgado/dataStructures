@@ -5,7 +5,6 @@ public class Zoo {
     private String nombre;
     private String direccion;
     private Animal[] animales = new Animal[200];
-
     public Zoo() {}
 
     public Zoo(String nombre, String direccion, Animal[] animales) {
